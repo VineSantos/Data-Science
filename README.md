@@ -20,4 +20,4 @@ Este repositório inclui:
 Clone este repositório para explorar os códigos ou adaptá-los para suas próprias necessidades.
 
 ```bash
-git clone github.com/VineSantos/Data-Science.git
+git clone https://github.com/VineSantos/Data-Science.git
