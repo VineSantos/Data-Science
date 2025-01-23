@@ -15,7 +15,7 @@ Este repositório inclui:
 - Projetos de exploração de dados e visualização
 - Outras pesquisas relevantes à área de Ciência de Dados
 
-### Como Usar
+## Como Usar
 
 Clone este repositório para explorar os códigos ou adaptá-los para suas próprias necessidades.
 
