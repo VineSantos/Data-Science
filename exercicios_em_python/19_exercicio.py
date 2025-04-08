@@ -1,4 +1,4 @@
-# Solicita a palavra do usuário
+# Solicita a palavra do usuario
 palavra = input("Digite uma palavra: ")
 
 # Remove espaços e transforma em minúscula para comparar corretamente
