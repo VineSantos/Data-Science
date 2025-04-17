@@ -7,4 +7,3 @@ porcentagem = (compras_acima_3000 / total_compras) * 100
 
 print(f"Total de compras acima de 3000: {compras_acima_3000}")
 print(f"Porcentagem de compras acima de R$ 3000: {porcentagem:.2f}%")
-print(f"Porcentagem de compras acima de R$ 3000: {porcentagem:.2f}%")
