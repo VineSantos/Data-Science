@@ -1,4 +1,4 @@
-# 1. Maiúsculas e Minúsculas
+#1. Maiúsculas e Minúsculas
 # Peça para o usuário digitar uma frase.
 # Exiba a frase toda em maiúsculas.
 #Exiba a frase toda em minúsculas.
