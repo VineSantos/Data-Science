@@ -9,7 +9,6 @@ while True:
     
     if entrada.lower() == '0':
         break
-    
     idades.append(int(entrada))
     
 if len(idades) > 0:
