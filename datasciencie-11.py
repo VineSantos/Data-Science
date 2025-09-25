@@ -3,6 +3,7 @@ jovem = []
 adulto = []
 meiaidade = []
 idosos = []
+
 while True:
     entrada = input("Digite sua idade: ")
 
