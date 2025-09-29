@@ -41,12 +41,12 @@ for candidato, votos in candidatos.items():
     
 print(f"Quantidade de votos em branco {votosbrancos}")
 print(f"Quantidade de votos nulos {votosnulos}")
-print(f"{pctgem_votosbrancos:.0f}%")
-print(f"{pctgem_votosbrancos:.0f}%")
+print(f"Porcentual de votos brancos: {pctgem_votosbrancos:.0f}%")
+print(f"Porcentual de votos nulos: {pctgem_votosnulos:.0f}%")
 
-if vencedor_geral == votosbrancos:
-    print(f"Não houve um candidato vencer. Votos em branco foi maioria! {votosbrancos}")
-elif vencedor_geral == votosnulos:
-    print(f"Não houve um candidato vencer. Votos nulos foi maioria! {votosnulos}")
+if vencedor_geral == "Brancos":
+    print(f"Não houve um candidato vencedor. Votos em branco foi maioria! Total: {votosbrancos}")
+elif vencedor_geral == "Nulos":
+    print(f"Não houve um candidato vencedor. Votos nulos foi maioria! Total: {votosnulos}")
 else:
     print(f"Maior candidato foi: {vencedor_geral}")
