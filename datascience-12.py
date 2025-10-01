@@ -57,3 +57,4 @@ elif vencedor_geral == "Nulos":
     print(f"Não houve um candidato vencedor. Votos nulos foi maioria! Total: {votosnulos}")
 else:
     print(f"Maior candidato foi: {vencedor_geral}")
+    print(f"Maior candidato foi: {vencedor_geral}")
