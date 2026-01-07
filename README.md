@@ -14,6 +14,7 @@ Este repositório inclui:
 - Experimentos com modelos de aprendizado de máquina
 - Projetos de exploração de dados e visualização
 - Outras pesquisas relevantes à área de Ciência de Dados
+- Repositório central minha pesquisa de pós graduação
 
 ## Como Usar
 
