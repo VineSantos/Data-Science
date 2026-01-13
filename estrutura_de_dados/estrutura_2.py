@@ -16,4 +16,4 @@ for ocorrencias, quantidade in contagem.items():
     
 mais_frequente = max(contagem, key=contagem.get)
 
-print(f"Ocorrencis mais frenquente: {mais_frequente}({contagem[mais_frequente]})"))
+print(f"Ocorrencis mais frenquente: {mais_frequente}({contagem[mais_frequente]})")
