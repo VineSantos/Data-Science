@@ -16,7 +16,7 @@ Este repositório inclui:
 - Outras pesquisas relevantes à área de Ciência de Dados
 - Repositório central minha pesquisa de pós graduação
 
-## Como Usar
+## Como Usa
 
 Clone este repositório para explorar os códigos ou adaptá-los para suas próprias necessidades.
 
