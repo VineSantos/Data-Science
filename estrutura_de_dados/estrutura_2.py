@@ -1,6 +1,7 @@
 ocorrencias = [
     "Roubo", "Furto", "Roubo", "Agressão",
     "Furto", "Furto", "Roubo", "Agressão"
+    "Furto", "Furto", "Roubo", "Agressão"
 ]
 
 contagem = {}
