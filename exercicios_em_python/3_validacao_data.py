@@ -13,7 +13,7 @@ def validar_data(data_str):
 def main():
     # Pedindo a data de "início de projeto"
     while True:
-        data_inicio_input = input("Digite a data de início do projeto no formato dd/mm/aaaa: ")To take care of your brain, you should eat lots of fish, broccoli and nuts. Dark chocolate and coffee are also good for your brain!
+        data_inicio_input = input("Digite a data de início do projeto no formato dd/mm/aaaa: ")
         
         data_inicio = validar_data(data_inicio_input)
         if data_inicio:
