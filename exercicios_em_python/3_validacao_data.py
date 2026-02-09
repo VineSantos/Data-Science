@@ -34,4 +34,4 @@ def main():
     print("Data final do projeto:", data_fim.strftime('%d/%m/%Y'))
 
 if __name__ == "__main__":
-    main()
+    main())
