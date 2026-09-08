@@ -26,7 +26,7 @@ input ("aperte enter para continuar")
 nomeCompleto = input("Digite seu nome completo")
 palavras = nomeCompleto.split()
 
-iniciais = [palavra[0].upper() for palavra in palavras].
+iniciais = [palavra[0].upper() for palavra in palavras]
 
 resultado = '.'.join(iniciais) + '.'
 
